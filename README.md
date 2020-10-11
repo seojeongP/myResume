@@ -64,3 +64,7 @@
 이를 통해 자바 언어에 대한 자신감, 재미를 느낌.
 
 #### 소프트웨어 위크 "자바스크립트로 웹을 타고 날자" 은상 수상
+<div>
+<image src=javascript2.jpg width=200 height=200>
+<image src=javascript1.jpg width=200 height=200>
+  </div>
