@@ -89,8 +89,8 @@ java script를 이용한 코딩 콘테스트 수상.
 
 #### 운전면허 취득
 <div>
-  <image src=carli.JPG width=200 height=200>
-  <image src=carexam.jpg width=200 height=100>
+  <image src=carli.JPEG width=200 height=200>
+  <image src=carexam.jpg width=400 height=200>
     </div>
 
 2020.09.29  
