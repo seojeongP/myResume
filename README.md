@@ -1,6 +1,7 @@
 # myResume
 
 ## 인적사항
+![my picture](C:\Users\Park Seojeong\Desktop\2020\박서정_3.jpg)
 * 이름 : 박서정
 * 생년월일 : 2000/09/09
 * 출생지역 : 강원도 원주
