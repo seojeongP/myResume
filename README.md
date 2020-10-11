@@ -59,18 +59,28 @@
 <img src=flip2.png width=150 height=300>  
 <img src=flip.png width=150 height=300>
   </div>
-2019.06.25 ~ 2019.07.22
-씨애랑 하계워크샵 라떼팀에서 **flip the card over**라는 모바일 게임 앱 개발.
-이를 통해 자바 언어에 대한 자신감, 재미를 느낌.
+  
+2019.06.25 ~ 2019.07.22    
+씨애랑 하계워크샵 라떼팀에서 **flip the card over**라는 모바일 게임 앱 개발.    
+이를 통해 자바 언어에 대한 자신감, 재미를 느낌.    
 
 #### 소프트웨어 위크 "자바스크립트로 웹을 타고 날자" 은상 수상
 <div>
 <image src=javascript2.jpg width=200 height=200>
 <image src=javascript1_1.JPG width=150 height=200>
   </div>
-java script를 이용한 코딩 콘테스트 수상.
-처음으로 코딩으로 돈을 받아봐서 짜릿했다.
+  
+java script를 이용한 코딩 콘테스트 수상.    
+처음으로 코딩으로 돈을 받아봐서 짜릿했다.    
   
 ## 2020 활동
 #### 씨애랑 라떼팀 하계워크샵 주도
-
+<div>
+  <image src=drawing.jpg width=200 height=200>
+  <image src=latte.png width=200 height=200>
+    </div>
+    
+2020에는 라떼 팀원에서 팀장으로 승급.    
+신입생을 대상으로 하계워크샵을 진행.    
+자바 복습과 안드로이드 스튜디오 교육.    
+그때 나의 피폐한 모습을 친구가 그림으로 담음. (왼쪽 사진)    
