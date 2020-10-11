@@ -2,7 +2,7 @@
 
 ## 인적사항
 
-<img src=mypic.jpg, width=200, height=100>
+<img src=mypic.jpg width=200 height=100>
 
 * 이름 : 박서정
 * 생년월일 : 2000/09/09
