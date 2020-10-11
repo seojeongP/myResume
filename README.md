@@ -66,5 +66,5 @@
 #### 소프트웨어 위크 "자바스크립트로 웹을 타고 날자" 은상 수상
 <div>
 <image src=javascript2.jpg width=200 height=200>
-<image src=javascript1.jpg width=200 height=200>
+<image src=javascript1_1.JPG width=170 height=200>
   </div>
