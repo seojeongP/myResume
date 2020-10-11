@@ -70,6 +70,7 @@
 <image src=javascript1_1.JPG width=150 height=200>
   </div>
   
+2019.11.07  
 java script를 이용한 코딩 콘테스트 수상.    
 처음으로 코딩으로 돈을 받아봐서 짜릿했다.    
   
@@ -80,7 +81,17 @@ java script를 이용한 코딩 콘테스트 수상.
   <image src=latte.png width=200 height=200>
     </div>
     
+2020.07.13 ~ 2020.08.07  
 2020에는 라떼 팀원에서 팀장으로 승급.    
 신입생을 대상으로 하계워크샵을 진행.    
 자바 복습과 안드로이드 스튜디오 교육.    
 그때 나의 피폐한 모습을 친구가 그림으로 담음. (왼쪽 사진)    
+
+#### 운전면허 취득
+<div>
+  <image src=carli.JPG width=200 height=200>
+  <image src=carexam.jpg width=200 height=100>
+    </div>
+
+2020.09.29  
+2종 보통 운전면허 독학 취득.  
