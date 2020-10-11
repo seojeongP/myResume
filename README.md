@@ -66,5 +66,11 @@
 #### 소프트웨어 위크 "자바스크립트로 웹을 타고 날자" 은상 수상
 <div>
 <image src=javascript2.jpg width=200 height=200>
-<image src=javascript1_1.JPG width=170 height=200>
+<image src=javascript1_1.JPG width=150 height=200>
   </div>
+java script를 이용한 코딩 콘테스트 수상.
+처음으로 코딩으로 돈을 받아봐서 짜릿했다.
+  
+## 2020 활동
+#### 씨애랑 라떼팀 하계워크샵 주도
+
