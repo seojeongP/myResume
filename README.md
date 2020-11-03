@@ -104,7 +104,7 @@ java script를 이용한 코딩 콘테스트 수상.
 * 2학기 - 10.30 ~ 10.31
 
 2. '밑바닥부터 시작하는 딥러닝' 책 끝내기  
-<image src=deep.JPEG width=200 height=230>
+<image src=deep.jpg width=200 height=230>
   
 
 3. AIFactory 경진대회 참가 (수치 예측)
