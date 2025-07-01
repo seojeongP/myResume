@@ -2,11 +2,7 @@
 
 ## 인적사항  
 
-<img src=mypic.jpg width=150 height=200>   
-
 * 이름 : 박서정  
-* 생년월일 : 2000.09.09 
-* 소속 : 한림대학교 소프트웨어융합대학 스마트IoT 소속 (부전공 : 빅데이터)
 * email : diditjwjd@gmail.com
 * Github : github.com/seojeongP
 
@@ -64,54 +60,19 @@
 #### 소프트웨어 위크 "자바스크립트로 웹을 타고 날자" 은상 수상
 <div>
 <image src=javascript2.jpg width=200 height=200>
-<image src=javascript1_1.JPG width=150 height=200>
   </div>
   
 2019.11.07  
 java script를 이용한 코딩 콘테스트 수상.   
   
 ## 2020 활동
-#### 씨애랑 라떼팀 하계워크샵 주도
+#### 씨애랑 라떼팀 하계워크샵
 <div>
   <image src=drawing.jpg width=200 height=200>
   <image src=latte.png width=200 height=200>
     </div>
     
 2020.07.13 ~ 2020.08.07  
-2020에는 라떼 팀장  
+2020 라떼 팀장  
 자바 복습과 안드로이드 스튜디오 교육.       
-<!-- 
-#### 운전면허 취득
-<div>
-  <image src=carli.JPEG width=200 height=200>
-  <image src=carexam.jpg width=400 height=200>
-    </div>
-
-2020.09.29  
-2종 보통 운전면허 독학 취득.   -->
-
-## 앞으로 해보고 싶은 활동  
-#### 딥러닝
-
-1. 2020 인공지능 특강 참여 
-* 하계 - 7.20 ~ 7.22, 7.27 ~ 7.29
-* 2학기 - 10.30 ~ 10.31
-
-2. '밑바닥부터 시작하는 딥러닝' 책 끝내기  
-<image src=deep.jpg width=200 height=230>
-  
-
-3. AIFactory 경진대회 참가 (수치 예측)
-
-#### 디지털 포렌식
-디지털 포렌식의 꼼꼼하고 확실한 절차에 매력을 느낌
-BOB 활동을 해볼 수 있길 희망
-
-
-#### 알고리즘 공부
-인터넷에 있는 다양한 알고리즘 챌린지 사이트를 통해  
-나의 코딩 실력을 향상시키고 알고리즘에 대한 빠른 이해를 할 수 있는 상태가 되길 희망
-
-#### 영어 공부
-단순히 토익공부가 아닌 실무와 실생활에 필요한 영어 공부를 이어나갈 예정
 
